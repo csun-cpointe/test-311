@@ -1,0 +1,4 @@
+image:
+  name: boozallen/test-311-tests-helm
+  imagePullPolicy: IfNotPresent
+  dockerRepo: ""
